@@ -1,5 +1,8 @@
 package school.mjc.stage0.loops.task4;
 
+/*
+* Change the program code so that it compiles and prints everything as it is in expected output.
+*/
 public class FixMe {
     public static void main(String[] args) {
         for (int i = 0; i < 100; i++) {
